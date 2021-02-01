@@ -4,7 +4,7 @@
 This repository contains all of the notes taken by [Betty Ho](https://github.com/BettyHoPro) for the Lighthouse Labs Web Development Bootcamp.
 
 testing out:
-```
+``` javascript
 console.log("this is a testing!")
 ```
 
